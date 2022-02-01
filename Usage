@@ -1,0 +1,18 @@
+
+Usage
+
+Short Form	Long Form	          Description
+-i	       --info	              Website Information
+-n	       --number	              Phone Number Information
+-mx	       --mailserver	      Find IP Address And E-mail Server
+-w	       --whois	              Domain Whois Lookup
+-l	       --location	      Find Website/IP Address Location
+-c	       --cloudflare	      Bypass CloudFlare
+-a	       --age	              Domain Age Checker
+-ua	       --useragent	      User Agent Info
+-p	       --port	              Check Active Services On Resource
+-b	       --bin	              Credit Card Bin Checker
+-s	       --subdomain	      Subdomain Scanner
+-e	       --email	              E-mail Address Checker
+-cms	       --cms	              Content Management System Checker
+-h	       --help	              show the help message and exit
