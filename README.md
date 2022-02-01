@@ -29,13 +29,13 @@ Credit
 
 Termux
 
-git clone https://github.com/Moham3dRiahi/Th3inspector.git
+git clone https://github.com/Letmehackyou011/Th3inspector.git
 cd Th3inspector
 chmod +x install.sh && ./install.sh
 
 Kali Linux
 
-git clone https://github.com/Moham3dRiahi/Th3inspector.git
+git clone https://github.com/Letmehackyou011/Th3inspector.git
 cd Th3inspector
 chmod +x install.sh && ./install.sh
 
